@@ -1,11 +1,15 @@
 <scheme name="_@user_Material Darker" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2019-05-07T21:39:18</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-09-11T09:41:13</property>
+    <property name="modified">2019-09-11T09:51:47</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
+  <option name="CONSOLE_FONT_NAME" value="Fira Code" />
+  <option name="CONSOLE_LIGATURES" value="true" />
+  <option name="CONSOLE_LINE_SPACING" value="1.1" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
@@ -46,6 +50,7 @@
     <option name="NOTIFICATION_BACKGROUND" value="3d1a11" />
     <option name="NOT_CHANGED" value="616161" />
     <option name="QUESTION_HINT" value="212121" />
+    <option name="READONLY_BACKGROUND" value="" />
     <option name="RECENT_LOCATIONS_SELECTION" value="1a1a1a" />
     <option name="RIGHT_MARGIN_COLOR" value="424242" />
     <option name="SELECTED_INDENT_GUIDE" value="ff9800" />
